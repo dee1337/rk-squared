@@ -10,10 +10,9 @@ Current features:
 * Game options
     * Always show timer
     * Show static battle backgrounds
-    * Hide Newcomers' Welcome Relic Draws
 
 RK Squared runs as a proxy: It runs on your PC and Mac, and you configure your phone, tablet, or emulator to connect through it, so that it can track your game status.
 
-Only the Android version of FFRK is currently supported.
+Both Android and iOS versions of FFRK are supported.
 
 This repository acts as the issue tracker and releases page for RK Squared.
