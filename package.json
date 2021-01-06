@@ -270,7 +270,7 @@
     "@types/sprintf-js": "^1.1.1",
     "ag-grid-community": "^21.0.0",
     "ag-grid-react": "^21.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.1.0",
     "cheerio": "^1.0.0-rc.2",
     "classnames": "^2.2.5",
