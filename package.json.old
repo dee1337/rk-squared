@@ -1,7 +1,7 @@
 {
   "name": "rk-squared",
-  "productName": "RK Squared (Community Build by dee1337)",
-  "version": "2.6.1",
+  "productName": "RK Squared",
+  "version": "2.6.0",
   "description": "RK Squared tracker for Final Fantasy Record Keeper",
   "main": "./app/main.prod.js",
   "scripts": {
@@ -259,13 +259,12 @@
     "yarn-deduplicate": "^3.1.0"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.2",
-    "@fortawesome/fontawesome-common-types": "^5.15.2",
-    "@fortawesome/free-brands-svg-icons": "^5.15.2",
-    "@fortawesome/free-regular-svg-icons": "^5.15.2",
-    "@fortawesome/fontawesome-svg-core": "^5.15.2",
-    "@fortawesome/free-solid-svg-icons": "^5.15.2",
-    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@fortawesome/fontawesome-pro": "^5.7.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.14",
+    "@fortawesome/free-brands-svg-icons": "^5.11.2",
+    "@fortawesome/pro-light-svg-icons": "^5.8.1",
+    "@fortawesome/pro-solid-svg-icons": "^5.7.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
     "@types/lodash": "^4.14.106",
     "@types/lodash-es": "^4.17.3",
     "@types/sprintf-js": "^1.1.1",

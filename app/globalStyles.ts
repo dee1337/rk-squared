@@ -1,5 +1,5 @@
 import * as Modal from 'react-modal';
-
+/*
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faApple } from '@fortawesome/free-brands-svg-icons/faApple';
 import { faWindows } from '@fortawesome/free-brands-svg-icons/faWindows';
@@ -20,6 +20,7 @@ import { faQuestion } from '@fortawesome/pro-solid-svg-icons/faQuestion';
 import { faSearch } from '@fortawesome/pro-solid-svg-icons/faSearch';
 import { faStar } from '@fortawesome/pro-solid-svg-icons/faStar';
 import { faUnlock } from '@fortawesome/pro-solid-svg-icons/faUnlock';
+*/
 
 // https://stackoverflow.com/a/37480521/25507
 // We could use jQuery Slim, but if we use that, our bundle still pulls in
@@ -34,6 +35,7 @@ import 'ag-grid-community/dist/styles/ag-theme-balham.css';
 
 import './app.global.scss';
 
+/*
 library.add(
   faApple,
   faArchive,
@@ -55,7 +57,7 @@ library.add(
   faUnlock,
   faWindows,
 );
-
+*/
 export function initializeGlobalStyles(rootNode: HTMLElement) {
   Modal.setAppElement(rootNode);
 }
