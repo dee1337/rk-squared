@@ -1,3 +1,6 @@
+Change from 2.7 to 2.7.1:
+New items (e.g. ADSBs) are added. This is a rebuild using the free fontawesome version instead of pro. In consequence, some icons might not be shown. But i rather like to see all the new items instead.
+
 # v2.7.0
 
 - Dungeon Tracker
